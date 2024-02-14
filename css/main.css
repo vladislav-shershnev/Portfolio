@@ -270,6 +270,7 @@ a:hover {
     margin-top: 2rem;
     display: flex;
     justify-content: space-between;
+    margin-bottom: 10px;
 }
 .footer__social{
     display: flex;
